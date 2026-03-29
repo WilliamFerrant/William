@@ -1,6 +1,6 @@
 # Hi, I'm William!
 
-**Full-Stack Developer & Freelance | Next.js Enthousiast **
+**Full-Stack Developer & Freelance | Next.js Enthousiast**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Building+modern+full-stack+applications;Specialized+in+Next.js+14%2F15;TypeScript+%7C+Tailwind+%7C+Prisma;Open+to+freelance+and+full-time+opportunities)
 
